@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://marcrochelesailesdupic.github.io/lesailesdupic/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://marcrochelesailesdupic.github.io/lesailesdupic/</loc>
+</url>
+<url>
+<loc>https://marcrochelesailesdupic.github.io/lesailesdupic/activites-2.html</loc>
+<lastmod>2026-01-07T17:05:08+01:00</lastmod>
+<image:image>
+<image:loc>https://marcrochelesailesdupic.github.io/lesailesdupic/media/posts/8/rc-4462161_1920.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://marcrochelesailesdupic.github.io/lesailesdupic/contact-2.html</loc>
+<lastmod>2026-01-07T14:59:40+01:00</lastmod>
+<image:image>
+<image:loc>https://marcrochelesailesdupic.github.io/lesailesdupic/media/posts/12/model-4462155_1920.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://marcrochelesailesdupic.github.io/lesailesdupic/le-club-2.html</loc>
+<lastmod>2026-01-07T16:40:28+01:00</lastmod>
+<image:image>
+<image:loc>https://marcrochelesailesdupic.github.io/lesailesdupic/media/posts/7/ChatGPT-Image-7-janv.-2026-14_52_26.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://marcrochelesailesdupic.github.io/lesailesdupic/le-club-3.html</loc>
+<lastmod>2026-01-07T17:05:27+01:00</lastmod>
+<image:image>
+<image:loc>https://marcrochelesailesdupic.github.io/lesailesdupic/media/posts/9/ChatGPT-Image-7-janv.-2026-11_48_21.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://marcrochelesailesdupic.github.io/lesailesdupic/terrains-de-vol.html</loc>
+<lastmod>2026-01-07T17:31:01+01:00</lastmod>
+<image:image>
+<image:loc>https://marcrochelesailesdupic.github.io/lesailesdupic/media/posts/11/ChatGPT-Image-7-janv.-2026-11_48_19.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
